@@ -1,0 +1,9 @@
+[
+    {"name":"\u0410\u043d\u0434\u0440\u0435\u0439","login":"andrey123","password":"1234","role":"admin"},
+    {"name":"\u0421\u0430\u043d\u044f","login":"sanya123","password":"4444","role":"user","favourites":[4,5,2]},
+    {"name":"\u0412\u0430\u0441\u044f","login":"vasya123","password":"844SystemUser","role":"user","favourites":[]},
+    {"name":"\u0427\u0435\u043b","login":"chel123","password":"4444","role":"user","favourites":[]},
+    {"name":"1","login":"1","password":"1","role":"user","favourites":[4,9,1]},
+    {"name":"2","login":"2","password":"2","role":"admin","favourites":[]},
+    {"name":"3","login":"3","password":"3","role":"user","favourites":[]}
+]
